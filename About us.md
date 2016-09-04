@@ -8,8 +8,8 @@ permalink: /About-us/
 
 ### Description :
 
-Platform to provide complete solution for problem statements provided by SME's or small enterprises/ Start-Ups. 
-Helping to uplift innovators to learn , earn and explore their problem solving skills. 
+We welcome SME's, Entrepreneurs or Start-Up's to find complete solutions on their various problem statements.
+We invite Innovators to learn, earn and explore their problem solving skills and uplift their career with us.
 
 ### For INNOVATORS :
 
