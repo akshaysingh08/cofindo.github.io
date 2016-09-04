@@ -2,7 +2,7 @@
 layout: page
 navigation_title: About us
 title: About us
-cover: http://images.huffingtonpost.com/2015-01-20-IdeasMakeorBreakYourBusiness.jpg
+cover: http://gorstak.rs/wp-content/uploads/2015/09/Website-About-Us-Banner.jpg	
 permalink: /About-us/
 ---
 
