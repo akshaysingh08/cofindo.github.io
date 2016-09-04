@@ -2,12 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CoFindo</title>
-    <description>Pirates as a platform
-</description>
+    <description>Uplift Innovators to learn, earn and explore their problem solving skills by providing a complete solution to the problem statements outsourced by SME&#39;s on board</description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Sep 2016 12:37:57 +0530</pubDate>
-    <lastBuildDate>Sun, 04 Sep 2016 12:37:57 +0530</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2016 13:25:11 +0530</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2016 13:25:11 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>

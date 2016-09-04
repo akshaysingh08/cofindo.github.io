@@ -11,7 +11,12 @@ layout: default
   <div class="post-content">
    <div class="home">
   
-  {{content}}    
+  {{content}}   
+ <div>
+            <a href='mailto:{{organiser.email}}?subject=Register interest for {{page.title}} on {{ page.date | date: "%B %-d, %Y" }}&body=Hi! Im interested in your event. Can I come please?' class="button button-primary">Submit your project</a>
+        </div>
+ <br>
+<hr>
 
       {% for post in site.posts %}
 

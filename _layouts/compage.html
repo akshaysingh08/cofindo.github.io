@@ -12,6 +12,11 @@ layout: default
    
    {{content}}
 
+<div>
+<a href='mailto:{{organiser.email}}?subject=Register interest for {{page.title}} on {{ page.date | date: "%B %-d, %Y" }}&body=Hi! Im interested in your event. Can I come please?' class="button button-primary">Submit Your Challenge</a>
+</div>
+<br>
+<hr>
       {% for post in site.posts %}
 
         {% if post.topic %}
@@ -34,5 +39,6 @@ layout: default
     </div>
     
   </div>
-
 </article>
+<br>
+Have Trouble? <a href="{{ post.url | prepend: site.baseurl }}"> Tell us </a>

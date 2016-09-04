@@ -11,8 +11,8 @@ title: CoFindo
 #What is the name of the events or talks you would like to host? (Example Brownbags, Talks, Lighting Talks)
 event_label: Projects
 
-description: > # this means to ignore newlines until "baseurl:"
-  Pirates as a platform
+description: Uplift Innovators to learn, earn and explore their problem solving skills by providing a complete solution to the problem statements outsourced by SME's on board 
+
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site

@@ -3,7 +3,7 @@ layout: post
 event : true
 #event information
 title:  "Nepal's Light"
-cover: "https://lh3.googleusercontent.com/-oSofxLLh3A4/V8u34Mg_WsI/AAAAAAAAADQ/I9eKZeTq6egcT1eR88fKKl0QkMRhkpHiwCK8B/s410/nepal%2Blight.png"
+cover: "http://www.arch2o.com/wp-content/uploads/2015/11/Arch2O-Festival-of-Lights-02-750x400.png"
 date:   2016-03-10
 start_time: "12:00"
 end_time: "13:00"
