@@ -8,7 +8,8 @@ permalink: /About-us/
 
 ### Description :
 
-Uplift Innovators to learn, earn and explore their problem solving skills by providing a complete solution to the problem statements outsourced by SME's on board.
+Platform to provide complete solution for problem statements provided by SME's or small enterprises/ Start-Ups. 
+Helping to uplift innovators to learn , earn and explore their problem solving skills. 
 
 ### For INNOVATORS :
 
