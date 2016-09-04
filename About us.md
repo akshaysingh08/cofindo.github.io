@@ -2,7 +2,7 @@
 layout: page
 navigation_title: About us
 title: About us
-cover: http://www.helpdohomework.com/wp-content/uploads/student-faced-problem.jpg
+cover: https://lh5.googleusercontent.com/-PE09xMJ0ePc/V8vIMdI9IAI/AAAAAAAAAbU/QAqmaFIeUmEgQM5MpHnftJzFw8nfaDrHwCJkCEAE/w934-h564-no/2016-09-04.jpg
 permalink: /About-us/
 ---
 
