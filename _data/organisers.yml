@@ -1,8 +1,3 @@
-David Boyne:
-    name: David Boyne
-    email: "david.boyne@test.com"
-    photo: "https://pbs.twimg.com/profile_images/660943257795457030/igA_joVD.jpg"
-
 Jimmy Smith:
     name: Jimmy Smith
     email: "jimmy.smith@test.com"
@@ -14,8 +9,20 @@ Frank Smith:
     photo: "https://randomuser.me/api/portraits/men/64.jpg"
 
 
-Laura Frank:
-    name: Laura Frank
-    email: "laura.frank@test.com"
+Swapnil:
+    name: DemonHunter
+    email: "frank.smith@test.com"
+    Photo: "https://cdn.instructables.com/F9B/TIT0/ISCB3KO7/F9BTIT0ISCB3KO7.MEDIUM.jpg"
+
+
+Madindra Aryal:
+    name: GhostRider
+    email: ""
     photo: "https://randomuser.me/api/portraits/women/0.jpg"
+
+Vishal Gharat:
+    name: DragonHunter
+    email: "vishalgharat22@gmail.com"
+    photo: "https://lh6.googleusercontent.com/-jYSSYNKQAFM/V8uvOiNXnDI/AAAAAAAAAB8/CwscwNNLqTwX8Bg6ib4Fw5y7bXfsFxxBgCL0B/w461-h564-no/cutter.png"
+
 

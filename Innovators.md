@@ -2,7 +2,7 @@
 layout: inopage
 navigation_title: Innovators
 title: Innovators Project
-cover: http://evento.io/img/cover.jpg
+cover: https://scottthorp.files.wordpress.com/2014/09/webhomes-what-we-do-innovation-plus-ideation1.jpg
 permalink: /innovatorsproject/
 ---
 
