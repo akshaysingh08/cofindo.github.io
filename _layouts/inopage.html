@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <article class="post">
 
   <header class="post-header">
@@ -10,7 +11,7 @@ layout: default
   <div class="post-content">
    <div class="home">
   
-    
+  {{content}}    
 
       {% for post in site.posts %}
 
@@ -35,3 +36,6 @@ layout: default
   </div>
 
 </article>
+<br>
+
+Have Trouble? <a href="{{ post.url | prepend: site.baseurl }}"> Tell us </a>

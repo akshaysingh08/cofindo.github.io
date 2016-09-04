@@ -6,9 +6,50 @@
 </description>
     <link>http://yourdomain.com/</link>
     <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 04 Sep 2016 11:52:58 +0530</pubDate>
-    <lastBuildDate>Sun, 04 Sep 2016 11:52:58 +0530</lastBuildDate>
+    <pubDate>Sun, 04 Sep 2016 12:37:57 +0530</pubDate>
+    <lastBuildDate>Sun, 04 Sep 2016 12:37:57 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>InfoSys Challenge</title>
+        <description>&lt;h3 id=&quot;about-challenge&quot;&gt;ABOUT CHALLENGE&lt;/h3&gt;
+
+&lt;p&gt;SAP Labs is looking to hire Frontend Developers for their team in Bangalore. Take up the test and stand a chance!&lt;/p&gt;
+
+&lt;p&gt;This is a Frontend challenge where participants need to build a functional design for the given task using Object-oriented Javascript, HTML &amp;amp; CSS.&lt;/p&gt;
+
+&lt;p&gt;Read the Job Description to know more.&lt;/p&gt;
+
+&lt;p&gt;Also, don’t forget to follow us on Facebook for all the exciting updates: Click here&lt;/p&gt;
+
+&lt;h3 id=&quot;open-position&quot;&gt;OPEN POSITION&lt;/h3&gt;
+&lt;p&gt;Expectations and Tasks :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ability to collaborate and work with teams spread across geographies.&lt;/li&gt;
+  &lt;li&gt;Drive, design and develop new features and components by working with other developers and product owner.&lt;/li&gt;
+  &lt;li&gt;Show initiative and drives topics to resolution in a high level of quality, reliability and efficiency.&lt;/li&gt;
+  &lt;li&gt;Ability to understand and master new technologies quickly.&lt;/li&gt;
+  &lt;li&gt;Contribute actively to architecture design.&lt;/li&gt;
+  &lt;li&gt;Adhere to practices and processes followed in team.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Requirement/Work Experience :&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Overall software development experience.&lt;/li&gt;
+  &lt;li&gt;Expert development skills in the areas of JavaScript (basic ,advanced &amp;amp; object oriented).&lt;/li&gt;
+  &lt;li&gt;Experience with JS frameworks.&lt;/li&gt;
+  &lt;li&gt;Good knowledge of web development technologies like UI5, HTML 5 , CSS etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Tue, 20 Dec 2016 00:00:00 +0530</pubDate>
+        <link>http://yourdomain.com/event/Challenge-Infosys.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/event/Challenge-Infosys.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>TCS Challenge</title>
@@ -47,47 +88,6 @@
         <pubDate>Sun, 20 Nov 2016 00:00:00 +0530</pubDate>
         <link>http://yourdomain.com/event/Challenge-TCS.html</link>
         <guid isPermaLink="true">http://yourdomain.com/event/Challenge-TCS.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>InfoSys Challenge</title>
-        <description>&lt;h3 id=&quot;about-challenge&quot;&gt;ABOUT CHALLENGE&lt;/h3&gt;
-
-&lt;p&gt;SAP Labs is looking to hire Frontend Developers for their team in Bangalore. Take up the test and stand a chance!&lt;/p&gt;
-
-&lt;p&gt;This is a Frontend challenge where participants need to build a functional design for the given task using Object-oriented Javascript, HTML &amp;amp; CSS.&lt;/p&gt;
-
-&lt;p&gt;Read the Job Description to know more.&lt;/p&gt;
-
-&lt;p&gt;Also, don’t forget to follow us on Facebook for all the exciting updates: Click here&lt;/p&gt;
-
-&lt;h3 id=&quot;open-position&quot;&gt;OPEN POSITION&lt;/h3&gt;
-&lt;p&gt;Expectations and Tasks :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Ability to collaborate and work with teams spread across geographies.&lt;/li&gt;
-  &lt;li&gt;Drive, design and develop new features and components by working with other developers and product owner.&lt;/li&gt;
-  &lt;li&gt;Show initiative and drives topics to resolution in a high level of quality, reliability and efficiency.&lt;/li&gt;
-  &lt;li&gt;Ability to understand and master new technologies quickly.&lt;/li&gt;
-  &lt;li&gt;Contribute actively to architecture design.&lt;/li&gt;
-  &lt;li&gt;Adhere to practices and processes followed in team.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Requirement/Work Experience :&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Overall software development experience.&lt;/li&gt;
-  &lt;li&gt;Expert development skills in the areas of JavaScript (basic ,advanced &amp;amp; object oriented).&lt;/li&gt;
-  &lt;li&gt;Experience with JS frameworks.&lt;/li&gt;
-  &lt;li&gt;Good knowledge of web development technologies like UI5, HTML 5 , CSS etc.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Sun, 20 Nov 2016 00:00:00 +0530</pubDate>
-        <link>http://yourdomain.com/event/Challenge-Infosys.html</link>
-        <guid isPermaLink="true">http://yourdomain.com/event/Challenge-Infosys.html</guid>
         
         
       </item>

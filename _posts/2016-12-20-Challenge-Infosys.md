@@ -4,7 +4,7 @@ topic: true
 #event information
 title:  "InfoSys Challenge"
 cover: "http://www.rishabhbpo.com/wp-content/uploads/2013/09/HR-outsourcing-issues-and-challenges.png"
-date:   2016-11-20
+date:   2016-12-20
 start_time: "12:00"
 end_time: "13:00"
 
