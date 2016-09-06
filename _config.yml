@@ -15,7 +15,7 @@ description: Uplift Innovators to learn, earn and explore their problem solving 
 
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://www.cofindo.co" # the base hostname & protocol for your site
 
 #These settings might be able to go?
 author: CoFindo
